@@ -69,13 +69,15 @@ from the serial port; therefore this function is currently commented out, but ca
 when required.
 */
 
-GENERATION OF OUTPUT
+GENERATION OF OUTPUT (MUSIC and LED MODULE)
 The second task is processing those messages. This is done using the message_generator function,
 this checks for errors in the messages along with the syntax to perform those tasks.
 
-TODO ### MUSIC LED AND SEVEN SEG MODULE HIGH LEVEL DESCRIPTION
+The music and led module take in the inputs and process based on a series of parameters. They
+utilise the timer interrupts to play a tune or to turn/blink a multitude of LEDs for a duration
+of time.
 
-
+NOTE for Music module:
 In order to stop the input of more messages while the tune plays, the flag “inPlay_tune”
 is checked, and an error message is provided if input is given while the tune is playing.
 
@@ -91,10 +93,13 @@ L (LED); for the LED mode, another letter needs to be given to indicate whether 
 The next arguments are parameters for the different modules explained below
 
 LED MODE
-TODO
+In LED Mode the general syntax is the following
+-L <blinking> <number of LEDs On> <Duration to leave on>
 
-SEVEN SEGMENT MODE
-TODO
+There are a few things to note about these parameters:
+- <blinking> is either K for blinking of O for on
+- <number of LEDs on> is a number between 
+- <duration to leave on> is 5,6 or 7 seconds
 
 MUSIC MODE
 In music mode the general syntax is the following
