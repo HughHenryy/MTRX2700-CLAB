@@ -9,7 +9,7 @@ MTRX2700 weekly lecture example code demonstration.
 Name:		 SID:
 
 Hugh Henry       490410688
-Teddy Zuo	 TODO 
+Teddy Zuo	 490438626 
 Peter Le	 TODO
 
 ##########################  Detail about the project #########################
