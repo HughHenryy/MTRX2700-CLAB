@@ -110,6 +110,7 @@ Discussion quesitions
 	- Approx. 180 intstrucions
 	- Mult by 3, each instruction takes approx 3 clock cycles
 	- 180*3*41.6*10^(-9) = 22.5 us
+	
 So 23 mikro seconds (approx)
 
 Excersise 2:
