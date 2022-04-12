@@ -1,0 +1,21 @@
+Meeting date/time: 29th March 2022, 02:00 PM
+Location: Discord/lab
+
+Present: 
+  Hugh, Peter, Teddy
+
+Meeting Purpose: 
+  Meet group, allocate excersises to complete
+
+Activities:
+  1. Meet group and read through the C Lab	
+  2. Get contact details and make a group chat
+  3. Deligate excersises, 
+	Teddy is allocated excersise 1
+	Hugh is allocated excersise 2
+	Peter is allocated excersise 3
+
+Future Plans:
+  Each person try to complete as much code and have a good plan for what they will do
+  Also try to complete or make a start on README documentation
+  Next week we will come together to see what we have done and any issues we have run into

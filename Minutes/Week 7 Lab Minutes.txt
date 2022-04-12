@@ -1,0 +1,16 @@
+Meeting date/time: 5th April 2022, 02:00 PM
+Location: Discord/lab
+
+Present: 
+  Hugh, Peter, Teddy
+
+Meeting Purpose: 
+  Check progress with coding
+
+Activities:
+  1. Talk about what we have done and the problems we have run into (serial port interrupts issue)
+  2. Work out what still needs to be done in a weeks time
+
+Future Plans:
+  Continue doing each individual excersises and send to peter to integrate with rest of code
+  Review Peters code and understand the serial port interrupts

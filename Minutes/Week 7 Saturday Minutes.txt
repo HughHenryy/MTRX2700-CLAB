@@ -1,0 +1,21 @@
+Meeting date/time: 9th April 2022, 03:30 PM
+Location: Discord/lab
+
+Present: 
+  Hugh, Peter, Teddy
+
+Meeting Purpose: 
+  Check what we are up to and how all the coding (hopefully finialised soon)
+
+Activities:
+  1. Go	through Peter's Code and he explains how it works
+  2. Work out what else we need to complete before Tuesday's Demonstration
+  3. Deligate the remaning work
+
+
+Future Plans:
+  - Teddy: Write function to output a predetermined buffer to the serial port following an interrupt
+		- use a flag and if statements in the interrupts for demonstration
+  - Hugh: - Attempt to write an error message when the buffer overflows (over 64)
+	  - Clean up and write README and minutes documentation
+  - Peter: Work out how to process input messages into the system (music and LED module)

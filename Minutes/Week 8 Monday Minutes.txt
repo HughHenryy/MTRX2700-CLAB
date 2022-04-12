@@ -1,0 +1,21 @@
+Meeting date/time: 11th April 2022, 07:30 PM
+Location: Discord/lab
+
+Present: 
+  Hugh, Peter, Teddy
+
+Meeting Purpose: 
+  Finalise for tomorrow
+
+Activities:
+  1. Peter shows us the music module
+  2. Go through criteria together to ensure we have everything
+  3. Setup private github to push all our work onto
+  4. Go through discussion questions and our answers
+
+
+Future Plans:
+  - Teddy: Proof read over README
+  - Hugh:  Finish README and minutes documentation	  
+  - Peter: Peter finish LED and seven seg module and put in buffer overflow
+		- Give push code to github when complete
