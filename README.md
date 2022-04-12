@@ -23,15 +23,13 @@ The message which is recieved requires a specific syntax (defined below in instr
 for the user), this tells the dragonboard what actions and specific parameters for those actions.
 There is also outputs of two types of errors, firstly error in syntax (incorrect message 
 sent, based on definitions) and secondly, errors of buffer overflow (where too many characters
-are typed such that they cannot be stored). There are three action modules.
+are typed such that they cannot be stored). There are two action modules.
 
-The first module is the LED module
-TODO
+The first module is the LED module, this module turns on between 1 and 3 LEDs, as well 
+as determines based off the messages to make them blink or not. In addition to this there
+is a third parameter for how many seconds the ligts stay on (or blink) for.
 
-The second module is the Seven Segment module
-TODO
-
-Finally, the most extensive moudle in the program is the music module, whereby a tune 
+Additionally, the most extensive moudle in the program is the music module, whereby a tune 
 is played, this module can play a combination of 5 notes to form a tune (from 7 different
 notes options, this being ABCDEF) and for between 1-5 seconds each. This information
 is based off the message the user inputs.
