@@ -13,7 +13,7 @@ Hugh Henry       490410688
 
 Teddy Yixun Yan	 490438626 
 
-Peter Le	 TODO
+Peter Le	 490124729
 
 ##########################  Detail about the project #########################
 
