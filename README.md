@@ -94,7 +94,7 @@ There are a few things to note about these parameters:
 - <length of note1 in seconds> is a number between 1 and 5 (max 5 seconds)
 
 
-##########################  Detials About Testing Procedures #########################
+##########################  Details About Testing Procedures #########################
 
 Excersise 1 (demonstrate reading and writing via interrupts):
 - Click run
